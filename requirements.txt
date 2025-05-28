@@ -1,0 +1,8 @@
+pydicom
+highdicom
+numpy
+matplotlib
+scipy
+imageio
+tqdm # Can be removed later
+ipynbkernal
